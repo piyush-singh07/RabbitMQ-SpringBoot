@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: singhpi
+Build-Jdk: 11.0.8
+Implementation-Title: spring-boot-rabbitmq-producer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javainuse
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-rabbitmq-producer
+Created-By: Maven Integration for Eclipse
+
